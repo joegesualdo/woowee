@@ -1,0 +1,17 @@
+{
+    "name": "joegesualdo/woowee",
+    "description": "Test package",
+    "homepage": "https://github.com/joegesualdo/woowee",
+    "authors": [
+        {
+            "name": "Joe Gesualdo",
+            "email": "joegesualdo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "WooWee\\": "src/" 
+      }
+    }
+}
