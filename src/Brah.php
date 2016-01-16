@@ -9,5 +9,8 @@ class Brah{
   public static function yell(){
     echo "Ahhhhhhhh!";
   }
+  public static function status(){
+    echo "tired";
+  }
 }
 ?>
